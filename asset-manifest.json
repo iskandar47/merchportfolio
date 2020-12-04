@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/merchportfolio/static/css/main.2d46dabe.chunk.css",
+    "main.js": "/merchportfolio/static/js/main.807b6944.chunk.js",
+    "main.js.map": "/merchportfolio/static/js/main.807b6944.chunk.js.map",
+    "runtime-main.js": "/merchportfolio/static/js/runtime-main.ea0900f8.js",
+    "runtime-main.js.map": "/merchportfolio/static/js/runtime-main.ea0900f8.js.map",
+    "static/js/2.49051123.chunk.js": "/merchportfolio/static/js/2.49051123.chunk.js",
+    "static/js/2.49051123.chunk.js.map": "/merchportfolio/static/js/2.49051123.chunk.js.map",
+    "index.html": "/merchportfolio/index.html",
+    "static/css/main.2d46dabe.chunk.css.map": "/merchportfolio/static/css/main.2d46dabe.chunk.css.map",
+    "static/js/2.49051123.chunk.js.LICENSE.txt": "/merchportfolio/static/js/2.49051123.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/merchportfolio/static/media/background1.a7ebda31.jpg",
+    "static/media/work2.14fc392b.jpg": "/merchportfolio/static/media/work2.14fc392b.jpg",
+    "static/media/work3.da8ac752.jpg": "/merchportfolio/static/media/work3.da8ac752.jpg",
+    "static/media/work4.47c75315.jpg": "/merchportfolio/static/media/work4.47c75315.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea0900f8.js",
+    "static/js/2.49051123.chunk.js",
+    "static/css/main.2d46dabe.chunk.css",
+    "static/js/main.807b6944.chunk.js"
+  ]
+}
