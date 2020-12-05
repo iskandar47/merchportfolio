@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/merchportfolio/static/css/main.2d46dabe.chunk.css",
-    "main.js": "/merchportfolio/static/js/main.807b6944.chunk.js",
-    "main.js.map": "/merchportfolio/static/js/main.807b6944.chunk.js.map",
+    "main.css": "/merchportfolio/static/css/main.dd9f7992.chunk.css",
+    "main.js": "/merchportfolio/static/js/main.3210d755.chunk.js",
+    "main.js.map": "/merchportfolio/static/js/main.3210d755.chunk.js.map",
     "runtime-main.js": "/merchportfolio/static/js/runtime-main.ea0900f8.js",
     "runtime-main.js.map": "/merchportfolio/static/js/runtime-main.ea0900f8.js.map",
-    "static/js/2.49051123.chunk.js": "/merchportfolio/static/js/2.49051123.chunk.js",
-    "static/js/2.49051123.chunk.js.map": "/merchportfolio/static/js/2.49051123.chunk.js.map",
+    "static/js/2.93f2852b.chunk.js": "/merchportfolio/static/js/2.93f2852b.chunk.js",
+    "static/js/2.93f2852b.chunk.js.map": "/merchportfolio/static/js/2.93f2852b.chunk.js.map",
     "index.html": "/merchportfolio/index.html",
-    "static/css/main.2d46dabe.chunk.css.map": "/merchportfolio/static/css/main.2d46dabe.chunk.css.map",
-    "static/js/2.49051123.chunk.js.LICENSE.txt": "/merchportfolio/static/js/2.49051123.chunk.js.LICENSE.txt",
+    "static/css/main.dd9f7992.chunk.css.map": "/merchportfolio/static/css/main.dd9f7992.chunk.css.map",
+    "static/js/2.93f2852b.chunk.js.LICENSE.txt": "/merchportfolio/static/js/2.93f2852b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/merchportfolio/static/media/background1.a7ebda31.jpg",
+    "static/media/biddenHarris.6acf4c33.jpeg": "/merchportfolio/static/media/biddenHarris.6acf4c33.jpeg",
+    "static/media/bigfoot.39dacaf0.jpeg": "/merchportfolio/static/media/bigfoot.39dacaf0.jpeg",
+    "static/media/dog.7eecde76.jpeg": "/merchportfolio/static/media/dog.7eecde76.jpeg",
+    "static/media/dogie.649628e4.jpeg": "/merchportfolio/static/media/dogie.649628e4.jpeg",
+    "static/media/ewpeople.25d74cd2.jpeg": "/merchportfolio/static/media/ewpeople.25d74cd2.jpeg",
+    "static/media/racoon.9cef0801.jpeg": "/merchportfolio/static/media/racoon.9cef0801.jpeg",
+    "static/media/threesantas.252aba74.jpeg": "/merchportfolio/static/media/threesantas.252aba74.jpeg",
+    "static/media/tokyo.2a341588.jpeg": "/merchportfolio/static/media/tokyo.2a341588.jpeg",
+    "static/media/warrior.51599743.jpeg": "/merchportfolio/static/media/warrior.51599743.jpeg",
     "static/media/work2.14fc392b.jpg": "/merchportfolio/static/media/work2.14fc392b.jpg",
     "static/media/work3.da8ac752.jpg": "/merchportfolio/static/media/work3.da8ac752.jpg",
     "static/media/work4.47c75315.jpg": "/merchportfolio/static/media/work4.47c75315.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ea0900f8.js",
-    "static/js/2.49051123.chunk.js",
-    "static/css/main.2d46dabe.chunk.css",
-    "static/js/main.807b6944.chunk.js"
+    "static/js/2.93f2852b.chunk.js",
+    "static/css/main.dd9f7992.chunk.css",
+    "static/js/main.3210d755.chunk.js"
   ]
 }
