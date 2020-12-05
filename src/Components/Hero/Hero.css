@@ -1,0 +1,142 @@
+.hero, .about-me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    color: #FFF;
+}
+.hero h1, .about-me h1 {
+    font-size: 72px;
+    font-weight: bold;
+}
+@media screen and (max-width : 680px) {
+    
+}
+.hero h2 {
+    font-size: 56px;
+    font-weight: 100;
+}
+.about-me {
+    width: 50%;
+    margin: auto;
+    height: 90vh;
+}
+
+.about-me div {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+.about-me h1 {
+    margin-left: -70px;
+    margin-top: -40px;
+}
+
+.about-me p {
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-indent: 24px;
+    padding: 8px;
+    font-weight: 100;
+}
+.about-me button {
+    margin: 8px;
+    height: 32px;
+    width: 40%;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFF;
+    background: transparent;
+    border: 1px solid #FFF;
+    border-radius: 0;
+    transition: 200ms all linear;
+    cursor: pointer;
+}
+
+.about-me button:hover {
+    transform: scale(1.05);
+}
+.about-me button:focus {
+    outline: none;
+}
+@media screen and (max-width : 950px) {
+    .hero h1 {
+        font-size: 48px;
+        margin-bottom: 24px;
+    }
+    .hero h2 {
+        font-size: 48px;
+    }
+}
+@media screen and (max-width : 680px) {
+    .hero h1 {
+        font-size: 32px;
+        margin-bottom: 24px;
+    }
+    .about-me {
+        width: 80%;
+        margin: auto;
+    }
+    .hero h2 {
+        font-size: 32px;
+    }
+    .about-me h1 {
+        margin-left: -30px;
+        margin-top: -20px;
+        font-size: 32px;
+    }
+    .about-me button {
+        width: 80%;
+    }
+}
+/* Works Grid */
+
+.works h1 {
+    color: #FFF;
+    font-size: 72px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.grid-container {
+    width: 70%;
+    margin: auto;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 0px 12px;
+    grid-template-areas:
+      "left left top-right top-right"
+      "left left top-right top-right"
+      "left left bottom-right bottom-right"
+      "left left bottom-right bottom-right";
+  }
+
+  .grid-container img {
+    width: 100%;
+  }
+
+  .left { grid-area: left; }
+  
+  .top-right { grid-area: top-right; }
+  
+  .bottom-right { grid-area: bottom-right; }
+  
+@media screen and (max-width : 680px) {
+    .grid-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .works h1 {
+        color: #FFF;
+        font-size: 32px;
+        text-align: center;
+        margin-bottom: 24px;
+    }
+    .grid-container img {
+        margin: 16px 0px;
+    }
+}
+
+
+  

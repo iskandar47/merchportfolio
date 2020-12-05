@@ -1,0 +1,12 @@
+.my-works {
+    /* background-color: rgba(256,256,256,1); */
+    margin-top: 12px;
+}
+.my-works h1 {
+    color : #FFF;
+    text-align: center;
+    margin-top: 10vh;
+}
+.grid {
+    padding: 10vh 0;
+}

@@ -1,0 +1,35 @@
+.contact-container {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact-container h1 {
+    font-size: 42px;
+    color: #FFF;
+    margin-bottom: 24px;
+}
+.contact {
+    display: flex;
+    flex-direction: row;
+}
+.contact div {
+    margin: 0 24px;
+}
+.contact div img {
+    width: 96px;
+    cursor: pointer;
+    transition: all 100ms linear;
+}
+.contact div img:hover {
+    transform: scale(1.05);
+}
+@media screen and (max-width : 650px) {
+    .contact div {
+        margin: 0 8px;
+    }
+    .contact div img {
+        width: 68px;
+    }
+}
