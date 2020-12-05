@@ -14,7 +14,7 @@ function App() {
             <Router>
             <Navbar />
                 <Switch>
-                    <Route exact path="/"><Home/></Route>
+                    <Route exact path="/merchportfolio"><Home/></Route>
                     <Route path="/works"><MyWorks/></Route>
                     <Route path="/contact"><Contact/></Route>
                 </Switch>
