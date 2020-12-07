@@ -1,5 +1,5 @@
 # Link to website 
-[MErch Portfolio](https://iskandar47.github.io/merchportfolio/)
+[Merch Portfolio](https://iskandar47.github.io/merchportfolio/)
 
 # Getting Started with Create React App
 
